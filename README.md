@@ -1,1 +1,1 @@
-# llm-knowledge-graph
+# llm-causal-graph
